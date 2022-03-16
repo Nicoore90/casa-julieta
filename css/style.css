@@ -3,12 +3,17 @@
     padding: 0px;
 }
 
+nav {
+    display: flex;
+    flex-direction: row;
+}
+
 .navbar {
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    width: 50%;
+    width: 70%;
     margin-left: 300px;
 }
 
@@ -20,6 +25,11 @@
 
 .navbar-element a {
     text-decoration: none;
+}
+
+.shopping-cart {
+    justify-self: flex-end;
+    margin-left: 500px;
 }
 
 .carousel-item img{
@@ -149,4 +159,65 @@
 #niños {
     width: 255px;
     height: 255px;
+}
+
+footer {
+    background-color: #A86864;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.footer-text {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.02em;
+    color: #FFFFFF;
+}
+
+.footer-element {
+    display: flex;
+    flex-direction: column;
+}
+
+.social-networks {
+    display: flex;
+    flex-direction: row;
+}
+
+.social-networks img {
+    width: 37px;
+    height: 37px;
+    color: #ffffff;
+    display: block;
+}
+
+.footer-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.footer-list-element {
+    list-style-type: none;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    margin-left: 0px;
+}
+
+.contact-links {
+    display: flex;
+    flex-direction: row;
 }
