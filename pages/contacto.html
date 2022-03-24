@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../css/style.css" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+      crossorigin="anonymous"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Clicker+Script&family=Nixie+One&display=swap"
+      rel="stylesheet"
+    />
+    <title>Nosotros</title>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <img src="../assets/Home/logo.png" class="logo" />
+        <span class="navbar-container">
+          <ul class="navbar">
+            <li class="navbar-element"><a href="../index.html">Inicio</a></li>
+            <li class="navbar-element">
+              <a href="catalogo.html">Catálogo</a>
+            </li>
+            <li class="navbar-element">
+              <a href="talles.html">Tabla de talles</a>
+            </li>
+            <li class="navbar-element"><a href="nosotros.html">Nosotros</a></li>
+            <li class="navbar-element"><a href="contacto.html">Contacto</a></li>
+          </ul>
+        </span>
+        <img src="../assets/Home/Carrito.svg" alt="" class="shopping-cart" />
+      </nav>
+    </header>
+    <div class="subtitle-box">
+      <div class="contact-subtitle-container">
+        <h2 class="all-subtitle">Contacto</h2>
+      </div>
+
+      <div class="contact-container">
+        <table class="contact-table">
+          <td></td>
+          <td>
+            <div class="contact">
+              <img src="../assets/Contacto/Icono Wpp.png" alt="" id="iconos" />
+              <h3 class="contact-title">WHATSAPP</h3>
+              <p>+54 1 234 567</p>
+            </div>
+          </td>
+          <td>
+            <div class="contact">
+              <img
+                src="../assets/Contacto/Icono Email.png"
+                alt=""
+                id="iconos"
+              />
+              <h3 class="contact-title">EMAIL</h3>
+              <p>casajulietaok@gmail.com</p>
+            </div>
+          </td>
+          <td>
+            <div class="contact">
+              <img
+                src="../assets/Contacto/Icono Instagram.png"
+                alt=""
+                id="iconos"
+              />
+              <h3 class="contact-title">INSTAGRAM</h3>
+              <p>@casajulietaok</p>
+            </div>
+          </td>
+          <!-- <td>
+            <div class="contact">
+              <img
+                src="../assets/Contacto/Icono Ubicación.png"
+                alt=""
+                id="iconos"
+              />
+              <h3 class="contact-title">UBICACIÓN</h3>
+              <p>calle falsa 1234, Buenos Aires, ARG</p>
+            </div>
+          </td> -->
+          <td></td>
+        </table>
+      </div>
+    </div>
+    <main>
+      <section class="formulario">
+        <form class="row g-3 form-cj">
+          <div class="col-md-4 campos">
+            <label for="validationCustom01" class="form-label">NOMBRE</label>
+            <input
+              type="text"
+              class="form-control"
+              id="validationCustom01"
+              value="Mark"
+              required
+            />
+          </div>
+          <div class="col-md-4 campos">
+            <label for="validationCustomEmail" class="form-label">EMAIL</label>
+            <div class="input-group has-validation">
+              <input
+                type="text"
+                class="form-control"
+                id="validationCustomEmail"
+                aria-describedby="inputGroupPrepend"
+                required
+              />
+              <div class="invalid-feedback">
+                Por favor ingresar e-mail valido.
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 campos">
+            <label for="validationCustom03" class="form-label">TELEFONO</label>
+            <input
+              type="number"
+              class="form-control"
+              id="validationCustom03"
+              required
+            />
+            <div class="invalid-feedback">
+              Por favor ingresar número de teléfono valido.
+            </div>
+          </div>
+          <div class="mb-3 campos">
+            <label for="exampleFormControlTextarea1" class="form-label"
+              >MENSAJE</label
+            >
+            <textarea
+              class="form-control"
+              id="exampleFormControlTextarea1"
+              rows="5"
+            ></textarea>
+          </div>
+          <div class="col-12">
+            <button class="btn btn-primary" type="submit">Submit form</button>
+          </div>
+        </form>
+      </section>
+    </main>
+    <footer>
+      <div class="footer-element">
+        <p class="footer-text">¡Seguinos en nuestras redes!</p>
+        <div class="social-networks">
+          <img src="../assets/Home/instagram 1.svg" alt="" />
+          <img src="../assets/Home/facebook 1.svg" alt="" />
+        </div>
+      </div>
+      <div class="footer-element" id="middle-element">
+        <p class="footer-text">Navegación</p>
+        <ul class="footer-list">
+          <li class="footer-list-element">Inicio</li>
+          <li class="footer-list-element">Catálogo</li>
+          <li class="footer-list-element">Tabla de talles</li>
+          <li class="footer-list-element">Nosotros</li>
+          <li class="footer-list-element">Contacto</li>
+        </ul>
+      </div>
+      <div class="footer-element">
+        <p class="footer-text">Contacto</p>
+        <div class="contact-links">
+          <img src="../assets/Home/Telefono.svg" alt="" />
+          <p class="footer-list-element">+54 1 234 567</p>
+        </div>
+        <div class="contact-links">
+          <img src="../assets/Home/Mail.svg" alt="" />
+          <p class="footer-list-element">casajulietaok@gmail.com</p>
+        </div>
+        <div class="contact-links">
+          <img src="../assets/Home/Ubicacion.svg" alt="" />
+          <p class="footer-list-element">calle falsa 1234, Buenos Aires, ARG</p>
+        </div>
+      </div>
+    </footer>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
