@@ -425,3 +425,22 @@ table {
 .campos {
   margin: 20px, 20px, 20px, 20px;
 }
+
+.formulario {
+  padding: 100px;
+  width: 50%;
+}
+
+#submit {
+  width: 100%;
+  border-radius: 20px;
+  background-color: #a86864;
+}
+
+.formulario input{
+  border: 1.5px solid #a86864;
+}
+
+.formulario textarea {
+  border: 1.5px solid #a86864;
+}
