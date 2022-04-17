@@ -1,0 +1,345 @@
+{
+  "conjuntos": [
+    {
+      "id": "CYB001",
+      "img": "/assets/Catalogo/Mujeres/Conjuntos/CYB001.jpg"
+    },
+    {
+      "id": "CYB002",
+      "img": "/assets/Catalogo/Mujeres/Conjuntos/CYB002.jpg"
+    },
+    {
+      "id": "CYB003",
+      "img": "/assets/Catalogo/Mujeres/Conjuntos/CYB003.jpg"
+    },
+    {
+      "id": "CYB004",
+      "img": "/assets/Catalogo/Mujeres/Conjuntos/CYB004.jpg"
+    },
+    {
+      "id": "CYB005",
+      "img": "/assets/Catalogo/Mujeres/Conjuntos/CYB005.jpg"
+    },
+    {
+      "id": "CYB006",
+      "img": "/assets/Catalogo/Mujeres/Conjuntos/CYB006.jpg"
+    },
+
+    {
+      "id": "CYB008",
+      "img": "/assets/Catalogo/Mujeres/Conjuntos/CYB008.jpg"
+    },
+    {
+      "id": "CYB009",
+      "img": "/assets/Catalogo/Mujeres/Conjuntos/CYB009.jpg"
+    },
+    {
+      "id": "CYB010",
+      "img": "/assets/Catalogo/Mujeres/Conjuntos/CYB010.jpg"
+    },
+    {
+      "id": "CYB011",
+      "img": "/assets/Catalogo/Mujeres/Conjuntos/CYB011.jpg"
+    },
+    {
+      "id": "CYB012",
+      "img": "/assets/Catalogo/Mujeres/Conjuntos/CYB012.jpg"
+    },
+    {
+      "id": "CYB013",
+      "img": "/assets/Catalogo/Mujeres/Conjuntos/CYB013.jpg"
+    },
+    {
+      "id": "CYB014",
+      "img": "/assets/Catalogo/Mujeres/Conjuntos/CYB014.jpg"
+    },
+    {
+      "id": "CYB015",
+      "img": "/assets/Catalogo/Mujeres/Conjuntos/CYB015.jpg"
+    }
+  ],
+  "corpinos": [
+    {
+      "id": "COR001",
+      "img": "/assets/Catalogo/Mujeres/Corpiños/COR001.jpg"
+    },
+    {
+      "id": "COR002",
+      "img": "/assets/Catalogo/Mujeres/Corpiños/COR002.jpg"
+    },
+    {
+      "id": "COR003",
+      "img": "/assets/Catalogo/Mujeres/Corpiños/COR003.jpg"
+    },
+    {
+      "id": "COR004",
+      "img": "/assets/Catalogo/Mujeres/Corpiños/COR004.jpg"
+    },
+    {
+      "id": "COR005",
+      "img": "/assets/Catalogo/Mujeres/Corpiños/COR005.jpg"
+    },
+    {
+      "id": "COR006",
+      "img": "/assets/Catalogo/Mujeres/Corpiños/COR006.jpg"
+    },
+    {
+      "id": "COR007",
+      "img": "/assets/Catalogo/Mujeres/Corpiños/COR007.jpg"
+    },
+    {
+      "id": "COR008",
+      "img": "/assets/Catalogo/Mujeres/Corpiños/COR008.jpg"
+    },
+    {
+      "id": "COR009",
+      "img": "/assets/Catalogo/Mujeres/Corpiños/COR009.jpg"
+    },
+    {
+      "id": "COR010",
+      "img": "/assets/Catalogo/Mujeres/Corpiños/COR010.jpg"
+    },
+    {
+      "id": "COR011",
+      "img": "/assets/Catalogo/Mujeres/Corpiños/COR011.jpg"
+    },
+    {
+      "id": "COR012",
+      "img": "/assets/Catalogo/Mujeres/Corpiños/COR012.jpg"
+    },
+    {
+      "id": "COR013",
+      "img": "/assets/Catalogo/Mujeres/Corpiños/COR013.jpg"
+    },
+    {
+      "id": "COR014",
+      "img": "/assets/Catalogo/Mujeres/Corpiños/COR014.jpg"
+    },
+    {
+      "id": "COR015",
+      "img": "/assets/Catalogo/Mujeres/Corpiños/COR015.jpg"
+    }
+  ],
+  "bombachas": [
+    {
+      "id": "BES001",
+      "img": "/assets/Catalogo/Mujeres/Bombachas/BES001.jpg"
+    },
+    {
+      "id": "BES002",
+      "img": "/assets/Catalogo/Mujeres/Bombachas/BES002.jpg"
+    },
+    {
+      "id": "BES003",
+      "img": "/assets/Catalogo/Mujeres/Bombachas/BES003.jpg"
+    },
+    {
+      "id": "BES004",
+      "img": "/assets/Catalogo/Mujeres/Bombachas/BES004.jpg"
+    },
+    {
+      "id": "BES005",
+      "img": "/assets/Catalogo/Mujeres/Bombachas/BES005.jpg"
+    },
+    {
+      "id": "BES006",
+      "img": "/assets/Catalogo/Mujeres/Bombachas/BES006.jpg"
+    },
+    {
+      "id": "BES007",
+      "img": "/assets/Catalogo/Mujeres/Bombachas/BES007.jpg"
+    },
+    {
+      "id": "BES008",
+      "img": "/assets/Catalogo/Mujeres/Bombachas/BES008.jpg"
+    },
+    {
+      "id": "BES009",
+      "img": "/assets/Catalogo/Mujeres/Bombachas/BES009.jpg"
+    },
+    {
+      "id": "BES010",
+      "img": "/assets/Catalogo/Mujeres/Bombachas/BES010.jpg"
+    },
+    {
+      "id": "BES011",
+      "img": "/assets/Catalogo/Mujeres/Bombachas/BES011.jpg"
+    },
+    {
+      "id": "BES012",
+      "img": "/assets/Catalogo/Mujeres/Bombachas/BES012.jpg"
+    },
+    {
+      "id": "BES013",
+      "img": "/assets/Catalogo/Mujeres/Bombachas/BES013.jpg"
+    },
+    {
+      "id": "BES014",
+      "img": "/assets/Catalogo/Mujeres/Bombachas/BES014.jpg"
+    },
+    {
+      "id": "BES015",
+      "img": "/assets/Catalogo/Mujeres/Bombachas/BES015.jpg"
+    },
+    {
+      "id": "TAE001",
+      "img": "/assets/Catalogo/Mujeres/Bombachas/TAE001.jpg"
+    },
+    {
+      "id": "TAE002",
+      "img": "/assets/Catalogo/Mujeres/Bombachas/TAE002.jpg"
+    },
+    {
+      "id": "TAE003",
+      "img": "/assets/Catalogo/Mujeres/Bombachas/TAE003.jpg"
+    },
+    {
+      "id": "TAE004",
+      "img": "/assets/Catalogo/Mujeres/Bombachas/TAE004.jpg"
+    },
+    {
+      "id": "TAE005",
+      "img": "/assets/Catalogo/Mujeres/Bombachas/TAE005.jpg"
+    },
+    {
+      "id": "TAS001",
+      "img": "/assets/Catalogo/Mujeres/Bombachas/TAS001.jpg"
+    },
+    {
+      "id": "TAS002",
+      "img": "/assets/Catalogo/Mujeres/Bombachas/TAS002.jpg"
+    },
+    {
+      "id": "TAS003",
+      "img": "/assets/Catalogo/Mujeres/Bombachas/TAS003.jpg"
+    },
+    {
+      "id": "TAS004",
+      "img": "/assets/Catalogo/Mujeres/Bombachas/TAS004.jpg"
+    }
+  ],
+  "hombres": [
+    {
+      "id": "BXR001",
+      "img": "/assets/Catalogo/Hombres/BXR001.jpg"
+    },
+    {
+      "id": "BXR002",
+      "img": "/assets/Catalogo/Hombres/BXR002.jpg"
+    },
+    {
+      "id": "BXR003",
+      "img": "/assets/Catalogo/Hombres/BXR003.jpg"
+    },
+    {
+      "id": "BXR004",
+      "img": "/assets/Catalogo/Hombres/BXR004.jpg"
+    },
+    {
+      "id": "SLP001",
+      "img": "/assets/Catalogo/Hombres/SLP001.jpg"
+    }
+  ],
+  "infantil": [
+    {
+      "id": "BSI001",
+      "img": "/assets/Catalogo/Niños/BSI001.jpg"
+    },
+    {
+      "id": "BSI002",
+      "img": "/assets/Catalogo/Niños/BSI002.jpg"
+    },
+    {
+      "id": "BSI003",
+      "img": "/assets/Catalogo/Niños/BSI003.jpg"
+    },
+    {
+      "id": "BSI004",
+      "img": "/assets/Catalogo/Niños/BSI004.jpg"
+    },
+    {
+      "id": "BSI005",
+      "img": "/assets/Catalogo/Niños/BSI005.jpg"
+    },
+    {
+      "id": "BSI006",
+      "img": "/assets/Catalogo/Niños/BSI006.jpg"
+    },
+    {
+      "id": "BSI007",
+      "img": "/assets/Catalogo/Niños/BSI007.jpg"
+    },
+    {
+      "id": "BSI008",
+      "img": "/assets/Catalogo/Niños/BSI008.jpg"
+    },
+    {
+      "id": "BSI009",
+      "img": "/assets/Catalogo/Niños/BSI009.jpg"
+    },
+    {
+      "id": "BSI010",
+      "img": "/assets/Catalogo/Niños/BSI010.jpg"
+    },
+    {
+      "id": "BSI011",
+      "img": "/assets/Catalogo/Niños/BSI011.jpg"
+    },
+    {
+      "id": "CJB001",
+      "img": "/assets/Catalogo/Niños/CJB001.jpg"
+    },
+    {
+      "id": "CJB002",
+      "img": "/assets/Catalogo/Niños/CJB002.jpg"
+    },
+    {
+      "id": "CJB003",
+      "img": "/assets/Catalogo/Niños/CJB003.jpg"
+    },
+    {
+      "id": "CJB004",
+      "img": "/assets/Catalogo/Niños/CJB004.jpg"
+    },
+    {
+      "id": "CJB005",
+      "img": "/assets/Catalogo/Niños/CJB005.jpg"
+    },
+    {
+      "id": "CJB006",
+      "img": "/assets/Catalogo/Niños/CJB006.jpg"
+    },
+    {
+      "id": "CJB007",
+      "img": "/assets/Catalogo/Niños/CJB007.jpg"
+    },
+    {
+      "id": "CNJ001",
+      "img": "/assets/Catalogo/Niños/CNJ001.jpg"
+    },
+    {
+      "id": "CNJ002",
+      "img": "/assets/Catalogo/Niños/CNJ002.jpg"
+    },
+    {
+      "id": "CNJ003",
+      "img": "/assets/Catalogo/Niños/CNJ003.jpg"
+    },
+    {
+      "id": "CNJ004",
+      "img": "/assets/Catalogo/Niños/CNJ004.jpg"
+    },
+    {
+      "id": "CNJ005",
+      "img": "/assets/Catalogo/Niños/CNJ005.jpg"
+    },
+    {
+      "id": "CNJ006",
+      "img": "/assets/Catalogo/Niños/CNJ006.jpg"
+    },
+    {
+      "id": "CNJ007",
+      "img": "/assets/Catalogo/Niños/CNJ007.jpg"
+    }
+  ]
+}

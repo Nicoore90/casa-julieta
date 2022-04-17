@@ -1,0 +1,23 @@
+{
+  "name": "casa-julieta",
+  "version": "1.0.0",
+  "description": "Proyecto Casa Julieta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server --watch data/productos.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicoore90/casa-julieta.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nicoore90/casa-julieta/issues"
+  },
+  "homepage": "https://github.com/Nicoore90/casa-julieta#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
