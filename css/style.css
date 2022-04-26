@@ -253,7 +253,7 @@ footer {
   align-content: center;
   justify-content: center;
   flex-direction: row;
-  height: 1400px;
+  height: auto;
 }
 
 .sidebar {
@@ -316,16 +316,47 @@ footer {
   width: 20%;
 }
 
-#conjuntos {
+#conjuntos{
   display: flex;
-  align-content: center;
-  justify-content: space-evenly;
-  flex-direction: column;
+  margin: 0px;
+  flex-direction: row;
+  width: 100%;
 }
+
+#corpinos {
+  display: flex;
+  margin: 0px;
+  flex-direction: row;
+  width: 100%;
+}
+
+#bombachas {
+  display: flex;
+  margin: 0px;
+  flex-direction: row;
+  width: 100%;
+}
+
+#infantil {
+  display: flex;
+  margin: 0px;
+  flex-direction: row;
+  width: 100%;
+}
+
+#hombres {
+  display: flex;
+  margin: 0px;
+  flex-direction: row;
+  width: 100%;
+}
+
 .card {
   width: 20px;
   margin: 0%;
   padding: 0%;
+  display: inline;
+  flex-wrap: wrap;
 }
 .card .add {
   background-color: rgba(231, 172, 170, 1);
@@ -335,6 +366,7 @@ footer {
 
 .card img {
   max-width: 300px;
+  align-self: center;
 }
 
 .container {
