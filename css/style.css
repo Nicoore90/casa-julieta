@@ -520,7 +520,6 @@ table {
 }
 
 .formulario {
-  padding: 100px;
   width: 50%;
 }
 
@@ -552,4 +551,10 @@ table {
   height: 100px;
   width: 350px;
   text-align: inherit;
+}
+
+.form-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }

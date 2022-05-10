@@ -98,67 +98,54 @@
       </div>
     </div>
     <main>
-      <section class="formulario">
-        <form class="row g-3 form-cj" id="form">
-          <div class="col-md-4 campos">
-            <label for="validationCustom01 nombre" class="form-label"
-              >NOMBRE</label
-            >
-            <input
-              type="text"
-              class="form-control"
-              id="validationCustom01 nombre"
-              required
-            />
-          </div>
-          <div class="col-md-4 campos">
-            <label for="validationCustomEmail email" class="form-label"
-              >EMAIL</label
-            >
-            <div class="input-group has-validation">
-              <input
-                type="text"
-                class="form-control"
-                id="validationCustomEmail email"
-                aria-describedby="inputGroupPrepend"
-                required
-              />
-              <div class="invalid-feedback">
-                Por favor ingresar e-mail valido.
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 campos">
-            <label for="validationCustom03 phone" class="form-label"
-              >TELEFONO</label
-            >
-            <input
-              type="number"
-              class="form-control"
-              id="validationCustom03 phone"
-              required
-            />
-            <div class="invalid-feedback">
-              Por favor ingresar número de teléfono valido.
-            </div>
-          </div>
-          <div class="mb-3 campos">
-            <label for="exampleFormControlTextarea1 consulta" class="form-label"
-              >MENSAJE</label
-            >
-            <textarea
-              class="form-control"
-              id="exampleFormControlTextarea1 consulta"
-              rows="5"
-            ></textarea>
-          </div>
-          <div class="col-12">
-            <button id="submit" type="submit" class="btn btn-primary boton">
-              <i class="fab fa-whatsapp"></i> Enviar Consulta
-            </button>
-          </div>
-        </form>
-      </section>
+        <div class="form-container">
+            <section class="formulario">
+                <form class="form-cj" id="form">
+                    <div class="campos">
+                        <label for="validationCustom01 nombre" class="form-label">NOMBRE</label>
+                        <input type="text"
+                               class="form-control"
+                               id="validationCustom01 nombre"
+                               required />
+                    </div>
+                    <div class="campos">
+                        <label for="validationCustomEmail email" class="form-label">EMAIL</label>
+                        <div class="input-group has-validation">
+                            <input type="text"
+                                   class="form-control"
+                                   id="validationCustomEmail email"
+                                   aria-describedby="inputGroupPrepend"
+                                   required />
+                            <div class="invalid-feedback">
+                                Por favor ingresar e-mail valido.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="campos">
+                        <label for="validationCustom03 phone" class="form-label">TELEFONO</label>
+                        <input type="number"
+                               class="form-control"
+                               id="validationCustom03 phone"
+                               required />
+                        <div class="invalid-feedback">
+                            Por favor ingresar número de teléfono valido.
+                        </div>
+                    </div>
+                    <div class="campos">
+                        <label for="exampleFormControlTextarea1 consulta" class="form-label">MENSAJE</label>
+                        <textarea class="form-control"
+                                  id="exampleFormControlTextarea1 consulta"
+                                  rows="5"></textarea>
+                    </div>
+                    <div>
+                        <button id="submit" type="submit" class="btn btn-primary boton">
+                            <i class="fab fa-whatsapp"></i> Enviar Consulta
+                        </button>
+                    </div>
+                </form>
+            </section>
+            <img src="../assets/Contacto/foto-contacto.jpg" alt="Alternate Text" />
+        </div>
     </main>
     <footer>
       <div class="footer-element">
